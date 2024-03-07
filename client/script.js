@@ -1,4 +1,4 @@
-let ws = new WebSocket("ws://localhost:8080");
+let ws = new WebSocket("ws://213.171.15.15:8080");
 
 const logo = document.querySelector('.logo');
 const boardContainer = document.querySelector('.board__container');
